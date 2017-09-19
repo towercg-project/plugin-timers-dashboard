@@ -1,3 +1,3 @@
-import _GameInfo from './GameInfo';
+import _Manager from './Manager';
 
-export const GameInfo = _GameInfo;
+export const Manager = _Manager;
